@@ -1,4 +1,4 @@
-### Thiago Honorato
+# Thiago Honorato
 
 Senior Software Developer na @TNT-Technology
 

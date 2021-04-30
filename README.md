@@ -1,6 +1,6 @@
 # Thiago Honorato
 
-Senior Software Developer na @TNT-Technology
+Senior Software Developer at @TNT-Technology
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Honorato-05727a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagohbhonorato/)](https://www.linkedin.com/in/thiagohbhonorato/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiagohbhonorato@gmail.com-05727a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagohbhonorato@gmail.com)](mailto:thiagohbhonorato@gmail.com)

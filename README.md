@@ -1,6 +1,6 @@
 # Thiago Honorato
 
-Senior Software Developer at Capgemini
+Solutions Architect at Capgemini
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagohbhonorato&show_icons=true&include_all_commits=true&count_private=true&title_color=05727a&text_color=c9d1d9&bg_color=0d1117&icon_color=05727a"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagohbhonorato&layout=compact&langs_count=7&title_color=05727a&text_color=c9d1d9&bg_color=0d1117&icon_color=05727a"/>
